@@ -874,4 +874,7 @@ textarea:focus {
   .meet {
     width: 15% !important;
   }
+  .small, .big{
+    display: none!important;
+  }
 }

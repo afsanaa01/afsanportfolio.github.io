@@ -101,16 +101,16 @@ body {
 /* navigation */
 
 .img-ctc {
-  background-image: url("/img/960x1440-bg-contact.jpg");
+  background-image: url("960x1440-bg-contact.jpg");
 }
 .img-about {
-  background-image: url("/img/960x1440-bg-menu.jpg");
+  background-image: url("960x1440-bg-menu.jpg");
 }
 .img-pro {
-  background-image: url("/img/1000x1000-portfolio-3.jpg");
+  background-image: url("1000x1000-portfolio-3.jpg");
 }
 .img-menu {
-  background-image: url("/img/1000x1000-portfolio-2.jpg");
+  background-image: url("1000x1000-portfolio-2.jpg");
 }
 .row1 > * {
   flex-shrink: 0;
@@ -755,7 +755,7 @@ textarea:focus {
   border-color: white;
 }
 .img-part {
-  background-image: url("/img/960x1440-slide-3.jpg");
+  background-image: url("960x1440-slide-3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

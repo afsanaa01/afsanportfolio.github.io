@@ -78,6 +78,14 @@ body {
   transition-timing-function: ease-in-out;
   height: 100%;
 }
+.img-part {
+  background-image: url("../img/960x1440-slide-3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
 .ac {
   margin: auto;
 }
@@ -754,14 +762,7 @@ textarea:focus {
   color: white !important;
   border-color: white;
 }
-.img-part {
-  background-image: url("../img/960x1440-slide-3.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 100vh;
-  width: 100%;
-}
+
 
 * {
   cursor: none;

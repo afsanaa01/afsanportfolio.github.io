@@ -755,7 +755,7 @@ textarea:focus {
   border-color: white;
 }
 .img-part {
-  background-image: url("img/960x1440-slide-3.jpg");
+  background-image: url("../img/960x1440-slide-3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

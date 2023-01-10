@@ -856,7 +856,7 @@ textarea:focus {
   .hamburger-btn {
     position: absolute;
     top: 2.5rem;
-    right: 2rem;
+    right: 1rem;
   }
   .b .img-part {
     display: none !important;

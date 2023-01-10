@@ -824,9 +824,6 @@ textarea:focus {
   .mobile-navigation {
     height: 100vh !important;
   }
-  .navigation {
-    display: none !important;
-  }
   .banner {
     padding-top: 32px;
     padding-left: 1rem !important;

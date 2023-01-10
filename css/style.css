@@ -874,4 +874,7 @@ textarea:focus {
   .small, .big{
     display: none!important;
   }
+  .text-part{
+        height: 100vh!important;
+  }
 }
